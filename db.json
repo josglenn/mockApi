@@ -1,0 +1,48 @@
+{
+  "users": [{
+    "id": "1",
+    "firstname": "jos",
+    "lastname": "pontejos",
+    "email": "josglenn@gmail.com",
+    "age": 22,
+    "companyId": "1"
+  },
+  {
+  "id": "2",
+    "firstname": "jat",
+    "lastname": "sdsd",
+    "email": "josglenn@gmail.com",
+    "age": 22,
+    "companyId": "1"
+  },
+  {
+    "id": "3",
+      "firstname": "sds",
+      "lastname": "pontejssos",
+      "email": "josglessssssnn@gmail.com",
+      "age": 22,
+      "companyId": "2"
+    },
+    {
+    "id": "4",
+      "firstname": "jo232s",
+      "lastname": "pontejos",
+      "email": "josglenasdasdn@gmail.com",
+      "age": 22,
+      "companyId": "2"
+    }
+  ],
+  "companies" : [
+    {
+      "id": "1",
+      "name": "google",
+      "description": "sdsss"
+    },
+    {
+      "id": "2",
+      "name": "apple",
+      "description": "sds"
+    }
+  ] 
+  
+}
